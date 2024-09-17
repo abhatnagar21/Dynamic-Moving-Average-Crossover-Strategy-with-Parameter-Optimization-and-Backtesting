@@ -1,0 +1,1 @@
+# Dynamic-Moving-Average-Crossover-Strategy-with-Parameter-Optimization-and-Backtesting
